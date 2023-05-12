@@ -1,0 +1,11 @@
+Estimado [name] [apellido1] [apellido2]
+
+Nos complace haber contactado con su empresa [company], como sabe estamos contactando a los trabajadores que desempeñen el puesto de [cargo], ahora que tenemos su registro solo hace falta confirmar su informacion personal, asi como su dirección de Facturación.
+
+En este momento el registro muestra que usted habita en [calle] , con numero exterior [num_ext], numero interior [num_int], en la colonia [colonia], en [municipio], [estado] y con el codigo postal [zip_code].
+
+Asi como su fecha de nacimiento : [fecha_nacimiento] , por lo tanto su edad es [edad] años.
+
+Si la informacion anterior no es correcta, favor de mandar un correo a atencion@cliente.com.
+
+Una vez que su registro se complete se enviara un mensaje de verificacion al numero [phone] asi como la confirmacion al correo [email].
